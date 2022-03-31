@@ -11,3 +11,7 @@ itroublveTSC is a Stealer , famous one, used by many people to hack discord Acco
 And Hack into social media accounts.
 
 
+# Tested On
+Ubuntu - Linux
+yara CLI
+![image](https://user-images.githubusercontent.com/82186529/161010544-c9a40193-3ca8-4729-978e-22dd8576eb36.png)
