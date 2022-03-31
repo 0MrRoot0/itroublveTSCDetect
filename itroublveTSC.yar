@@ -10,5 +10,6 @@ rule itroublveTSC{
         $windefDisable = "idk.Binaries.whysosad"
         $droppedstealer = "RtkBtManServ.exe"
         $hexify = "hexify"
+        $confuser = "ConfuserEx v1.0.0"
     condition: all of them    
 }
