@@ -1,5 +1,5 @@
 # 🛡️ itroublveTSC Detect  
-A **YARA-based** detection tool for identifying **itroublveTSC** Discord token and password stealers.  
+A **YARA-based** detection rule for identifying **itroublveTSC** Discord token and password stealers.  
 
 ## 🔍 What is itroublveTSC?  
 **itroublveTSC** is a widely used stealer designed to hack Discord and social media accounts by extracting sensitive credentials.  
