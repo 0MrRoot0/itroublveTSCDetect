@@ -1,19 +1,14 @@
-# itroublveTSC Detect
-Detect itroublveTSC Discord Token &amp; Passwords Stealer Using YARA Rules!
-<br>
-<br>
-<br><img src="https://securiumsolutions.com/blog/wp-content/uploads/2019/10/yara-logo.jpg" style="  display: block;margin-left: auto;margin-left: 50px;width: 50%;">
-<br>
-<br>
-# What Is itroublveTSC?
+# 🛡️ itroublveTSC Detect  
+A **YARA-based** detection tool for identifying **itroublveTSC** Discord token and password stealers.  
 
-itroublveTSC is a Stealer , famous one, used by many people to hack discord Account's
-And Hack into social media accounts.
+## 🔍 What is itroublveTSC?  
+**itroublveTSC** is a widely used stealer designed to hack Discord and social media accounts by extracting sensitive credentials.  
 
 
-# Tested On
-Ubuntu - Linux
-yara CLI
-<br>
-<br>
-![image](https://user-images.githubusercontent.com/82186529/161010544-c9a40193-3ca8-4729-978e-22dd8576eb36.png)
+## ✅ Tested On  
+- **Ubuntu (Linux)**  
+- **YARA CLI**  
+
+![YARA CLI](https://user-images.githubusercontent.com/82186529/161010544-c9a40193-3ca8-4729-978e-22dd8576eb36.png)  
+
+### 🔒 Stay secure!
